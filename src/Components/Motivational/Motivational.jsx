@@ -349,8 +349,8 @@ class Motivational extends Component {
         return (
             <>            
                 <div className="container tables back-image">        
-                    <button className="Adding" data-bs-toggle="modal" data-bs-target="#staticBackdrop" type="button" onClick={this.openAddForm}>Add Day</button>
-                    <div className="text-center mb-3">
+                    <button className="Adding px-4 py-1 mx-3" data-bs-toggle="modal" data-bs-target="#staticBackdrop" type="button" onClick={this.openAddForm}>Add Day</button>
+                    <div className="text-center mb-3 ">
                         <button 
                             className={this.state.filter==='Show All'? 'px-4 py-1 mx-3 bg-primary text-white': 'px-4 py-1 mx-3'}
                             onClick={(e) => this.applyFilter('Show All')}
