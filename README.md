@@ -1,17 +1,17 @@
 # Readme 
-    -Name: Wanda White
+    Name: Wanda White
 ## Website Host (https://motivationjournal.herokuapp.com/)
 
 # User Stories
     1.	As a person who needs to improve my productivity,  
-I want to document my daily motivation level and journal  
-so that I can use the information to make changes in my thoughts and behavior.
+    I want to document my daily motivation level and journal  
+    so that I can use the information to make changes in my thoughts and behavior.
     2.	As a person who is having many days where I lack motivation,
-I want to use my daily motivation level and journal info
-so that I can see patterns that might help me determine what is driving lack of motivation.
+    I want to use my daily motivation level and journal info
+    so that I can see patterns that might help me determine what is driving lack of motivation.
     3.	As person who needs to improve my life by improving my motivation,
-I want to view what days I had great motivation
-so that I determine via my journal what happened or what I thought was important on those days.
+    I want to view what days I had great motivation
+    so that I determine via my journal what happened or what I thought was important on those days.
 
 
 # Future Improvements
