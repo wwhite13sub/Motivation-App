@@ -1,0 +1,52 @@
+body {
+    background-color: rgba(247, 244, 244, 0.692);
+}
+.header {
+    text-align: center;
+}
+
+#overlay-form {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0, 0.7);
+}
+.headers {
+    font-size:larger;
+}
+.modal-title {
+    color: rgba(44, 85, 173, 0.589);
+    font-weight: 800;
+}
+ .Adding {
+     margin-top: 8%;
+     margin-bottom: 5%;
+     background-color:rgba(240, 185, 35, 0.726);
+ }
+ .list {
+     margin-top: 4%;
+     padding: 1%;
+ }
+ #add-date {
+     background-color: rgba(247, 244, 244, 0.692);
+     padding:1%;
+     margin-bottom: 3%;    
+ }
+ .choice {
+     padding:1%;
+     margin-bottom: 1%;
+ }
+ .process1 {
+     background-color:rgb(197, 181, 212);
+     color: white;
+ }
+ .process {
+    background-color: rgb(248, 85, 85);
+    color: white;
+ }
+ .bg-custom {
+     background-color: rgb(154, 243, 236);
+     color:black;
+ }
