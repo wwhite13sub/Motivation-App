@@ -118,7 +118,7 @@ class Motivational extends Component {
                   
                   <div className="modal-footer">
                     <button type="button" className="btn btn-danger" data-bs-dismiss="modal" onClick= {this.cancelJournal}>Cancel</button>
-                    <button type="submit" className="btn btn-success" onClick={this.editOrAddJournal}>{this.state.editMode?'Edit':'Add'}</button>
+                    <button type="submit" className="btn btn-success" onClick={this.editOrAddJournal}>{this.state.editMode?'Save':'Add'}</button>
                   </div>
                   {this.displayError()}
                   </form>
