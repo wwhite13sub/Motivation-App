@@ -1,10 +1,28 @@
+# Readme 
+    -Name: Wanda White
+## Website Host (https://motivationjournal.herokuapp.com/)
+
+# User Stories
+    1.	As a person who needs to improve my productivity,  
+I want to document my daily motivation level and journal  
+so that I can use the information to make changes in my thoughts and behavior.
+    2.	As a person who is having many days where I lack motivation,
+I want to use my daily motivation level and journal info
+so that I can see patterns that might help me determine what is driving lack of motivation.
+    3.	As person who needs to improve my life by improving my motivation,
+I want to view what days I had great motivation
+so that I determine via my journal what happened or what I thought was important on those days.
+
+
+# Future Improvements
+    1.	Add ability to store information by user id so this web application could be used by anyone.
+    2.	Add more characters for journal information so more information about each day can be stored.
+    3.	Add more fields that describe what happened during the day to help with analysis of cause and effect of motivation level (physical health, exercise activity, nutritional info).
+    4.	Add page to list sources of inspiration that are motivational to me (books, music, people).
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+This project was bootstrapped with [Create React App](
 
 ### `npm start`
 
@@ -45,26 +63,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
