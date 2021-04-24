@@ -1,7 +1,12 @@
 {
+  "homepage": "http://wwhite13sub.github.io/motivational-2021",
   "name": "motivational-2021",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "14.15.4",
+    "npm": "6.14.10"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
@@ -15,6 +20,7 @@
     "web-vitals": "^1.1.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
